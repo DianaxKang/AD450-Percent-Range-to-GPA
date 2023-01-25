@@ -1,3 +1,11 @@
+''' 
+Diana Kang
+AD540
+Program that accepts student's percent range as a keyboard input and output GPA using If/Else statements.
+Upon running the file, the user is prompted (input) to insert their grade as percentage (0% - 100%). 
+The program then calculates the range the grade falls into.
+'''
+
 name = input("Name: ")
 percent = float(input("Percent: "))
 
